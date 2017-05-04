@@ -1,5 +1,7 @@
 # loopback-component-meta
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/fullcube/loopback-component-meta.svg)](https://greenkeeper.io/)
+
 Component for [LoopBack](https://loopback.io) that adds a Meta model that can be used to retrieve meta data about the model definitions.
 
 # Installation
