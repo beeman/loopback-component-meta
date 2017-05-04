@@ -24,20 +24,20 @@
   },
   "homepage": "https://github.com/beeman/loopback-component-meta#readme",
   "dependencies": {
-    "debug": "2.2.0",
-    "lodash": "4.6.1",
-    "loopback": "2.27.0",
-    "loopback-datasource-juggler": "2.45.2"
+    "debug": "2.6.6",
+    "lodash": "4.17.4",
+    "loopback": "3.8.0",
+    "loopback-datasource-juggler": "3.6.1"
   },
   "optionalDependencies": {
-    "loopback-component-explorer": "2.3.0"
+    "loopback-component-explorer": "4.2.0"
   },
   "devDependencies": {
-    "babel-cli": "6.9.0",
-    "bluebird": "3.3.4",
+    "babel-cli": "6.24.1",
+    "bluebird": "3.5.0",
     "chai": "3.5.0",
-    "debug": "2.2.0",
-    "loopback-boot": "2.18.0",
-    "mocha": "2.4.5"
+    "debug": "2.6.6",
+    "loopback-boot": "2.24.0",
+    "mocha": "3.3.0"
   }
 }
